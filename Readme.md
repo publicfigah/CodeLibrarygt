@@ -1,1 +1,2 @@
-Started my CODING Journey. I'll be a great Developer!
+# gitCodeLibrary
+Nicholas here, I have started my Web Development journey!

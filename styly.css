@@ -34,14 +34,13 @@ nav a {
 
 .navs {
   display: flex;
-  justify-content: space-between;
+  gap: 24px;
   padding-top: 32px;
   margin-bottom: 32px;
 }
 
-.nav-flex {
-  display: flex;
-  gap: 24px;
+nav a:first-child {
+  margin-right: auto;
 }
 
 .text-main {
